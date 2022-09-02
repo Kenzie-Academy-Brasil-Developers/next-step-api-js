@@ -1,12 +1,34 @@
 {
   "users": [    
     {
-      "email": "mathsudre@gmail.com",
-      "password": "$2a$10$OriHfEayW7eB7iqKJmOPNe.vMTUAu.rEx8bxEfhLoEBFHroZ45vTi",
+      "email": "matheus@gmail.com",
+      "password": "$2a$10$f.hewy3JIPxipESL82c81.6.S1X/s2aOS0csDSkGnfHpOFGMnlW7W",
+      "name": "Matheus Araújo",
+      "confirmPassword": "Teste@123",
+      "image": "https://avatars.githubusercontent.com/u/100591242?s=400&u=4959ce9ec57cec5a891d320ac12c5fbf1214163c&v=4",
+      "bio": "Lorem ipsum dolor emet,Lorem ipsum dolor emet,Lorem ipsum dolor emet",
       "id": 1
     }
   ],
   "techs": [
+    {
+      "name": "Kenzie Hub",
+      "info": "controle de tecnologias",
+      "libs": "yup,hookForm",
+      "userId": 1,
+      "id": 1,
+      "nivel": "Iniciante"
+    },
+    {
+      "name": "Kenzie Hub",
+      "info": "controle de tecnologias",
+      "libs": "yup,hookForm",
+      "userId": 1,
+      "nivel": "Iniciante",
+      "id": 2
+    }
+  ],
+  "projects": [
    
   ]
 }
