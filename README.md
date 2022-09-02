@@ -7,13 +7,13 @@
   Componentes do Grupo  
 </h2>
 
-									Emerson Gomes - PO
+Emerson Gomes - PO
 
-									Luan Marchi - QA
+Luan Marchi - QA
 
-									Matheus Sudré - TL/SM
+Matheus Sudré - TL/SM
 
-									Carlos Blanco - QA
+Carlos Blanco - QA
 
 </p>
 
