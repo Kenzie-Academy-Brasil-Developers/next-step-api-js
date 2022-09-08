@@ -3,32 +3,100 @@
     {
       "email": "matheus@gmail.com",
       "password": "$2a$10$f.hewy3JIPxipESL82c81.6.S1X/s2aOS0csDSkGnfHpOFGMnlW7W",
-      "name": "Matheus Araújo",
+      "name": "Matheus da Silva Sudré",
+      "subname": "Matheus Sudre",
       "confirmPassword": "Teste@123",
       "image": "https://avatars.githubusercontent.com/u/100591242?s=400&u=4959ce9ec57cec5a891d320ac12c5fbf1214163c&v=4",
-      "bio": "Lorem ipsum dolor emet,Lorem ipsum dolor emet,Lorem ipsum dolor emet",
+      "bio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate iste ex, dignissimos veniam culpa natus in earum illo. Dicta voluptate nulla doloremque esse in! Libero eveniet hic dolorum magni nam?. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate iste ex, dignissimos veniam culpa natus in earum illo. Dicta voluptate nulla doloremque esse in! Libero eveniet hic dolorum magni nam?",
+      "home":"Imperatriz - MA",      
+      "occupation": "Front-End Developer",  
       "id": 1
     }
   ],
   "techs": [
     {
-      "name": "Kenzie Hub",
-      "info": "controle de tecnologias",
-      "libs": "yup,hookForm",
-      "userId": 1,
+      "typescript": true,
+      "javascript": true,
+      "react": true,
+      "nodejs": true,
+      "angular": false,
+      "vue": false,
+      "docker": false,
+      "python":false,
+      "nextjs": false,
+      "prisma": false,
+      "styledcomponents": true,
+      "tailwindcss": false,
       "id": 1,
-      "nivel": "Iniciante"
+      "userId": 1
+    }
+   
+  ],
+  "projetos": [
+    {
+      "title": "Nu Kenzie",
+      "made": "React",
+      "description": "App para controle de gastos",
+      "deploy": "https://react-entrega-s1-nu-kenzie-mathsudre.vercel.app",
+      "id": 1,
+      "userId": 1
     },
     {
-      "name": "Kenzie Hub",
-      "info": "controle de tecnologias",
-      "libs": "yup,hookForm",
-      "userId": 1,
-      "nivel": "Iniciante",
-      "id": 2
+      "title": "Kenzie Burguer",
+      "made": "React",
+      "description": "e-commerce de lanches",
+      "deploy": "https://react-entrega-s1-hamburgueria-da-kenzie-mathsudre.vercel.app",
+      "id": 1,
+      "userId": 1
+    }
+   
+  ], 
+  "ferramentas": [
+    {
+    "vscode": true,
+    "notion": true,
+    "trello": true,
+    "jira": false,
+    "git": true,
+    "figma": true,
+    "vercel": true,
+    "heroku": true,
+    "id": 1,
+    "userId": 1
     }
   ],
-  "projects": [
-   
-  ]
+  "formacao": [{
+    "title": "Desen.FullStack",
+    "description": "Metodologia do Vale do Silício. Em 12 meses, você aprende as principais linguagens do mercado para aprender a programar de verdade. Mesmo sem conhecimento prévio ou recursos para investir.",
+    "instituition": "Kenzie Academy Brasil",
+    "date": "2022 - 2023",
+    "id": 1,
+    "userId": 1 
+  },
+  {
+    "title": "Desen.FullStack",
+    "description": "Metodologia do Vale do Silício. Em 12 meses, você aprende as principais linguagens do mercado para aprender a programar de verdade. Mesmo sem conhecimento prévio ou recursos para investir.",
+    "instituition": "Kenzie Academy Brasil",
+    "date": "2022 - 2023" ,
+    "id": 1,
+    "userId": 1
+  }
+ ],
+  "experiencia":[{
+    "title": "Monitor/Coach",
+    "company": "Kenzie Academy Brasil",
+    "description": "Monitoria e orientação prática de JavaScript, POO e DOM. Ajudar alunos em dúvidas de avaliações, projetos e atividades. Correção de avaliações e atividades dos alunos.",
+    "start": "05/22",
+    "end": "Atualmente",
+    "id": 1,
+    "userId": 1
+  }],
+  "contatos":[{
+    "linkedin": "https://www.linkedin.com/in/matheus-sudre/",
+    "github": "https://github.com/mathsudre",
+    "instagram": "https://www.instagram.com/mathsudre/",
+    "whatsapp": "",
+    "id": 1,
+    "userId": 1
+  }]
 }
